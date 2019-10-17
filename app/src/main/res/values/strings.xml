@@ -1,0 +1,7 @@
+<resources>
+    <string name="button">拨号</string>
+    <string name="app_name">TinyDialer</string>
+    <string name="text">请输入电话号码</string>
+    <string name="phonenumber"></string>
+    <string name="notify_incorrect_phonenumber">您输入的号码不正确，请重新输入</string>
+</resources>
